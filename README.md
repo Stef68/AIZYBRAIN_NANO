@@ -2,6 +2,9 @@
 
 Sovereign, Free, and No-Code AI.
 
+[![Download AIZYBRAIN Nano](https://img.shields.io/badge/📥_Download-AIZYBRAIN_Nano-blue?style=for-the-badge)](https://drive.google.com/file/d/1MMhEvVHX4yQotJCNz3l9NQAf8K3Rcc_p/view?usp=sharing)
+Note: If Google Drive displays an "Antivirus scan was unable to complete" warning due to the file size, this is normal for executables. You can click "Download anyway."
+
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-2026.02-blue.svg)]()
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)]()
@@ -84,6 +87,9 @@ Developed with passion for digital freedom.
 
 # 🧠 AIZYBRAIN Nano
 ### L’IA Souveraine, Gratuite et No-Code.
+
+[![Download AIZYBRAIN Nano](https://img.shields.io/badge/📥_Download-AIZYBRAIN_Nano-blue?style=for-the-badge)](https://drive.google.com/file/d/1MMhEvVHX4yQotJCNz3l9NQAf8K3Rcc_p/view?usp=sharing)
+> **Note :** Si Google Drive affiche un avertissement "Analyse antivirus impossible" à cause de la taille du fichier, c'est normal pour les exécutables. Vous pouvez cliquer sur "Télécharger quand même".
 
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-2026.02-blue.svg)]()
