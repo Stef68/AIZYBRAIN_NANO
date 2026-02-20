@@ -1,95 +1,7 @@
-🧠 AIZYBRAIN Nano
-
-Sovereign, Free, and No-Code AI.
-
-[![Download AIZYBRAIN Nano](https://img.shields.io/badge/📥_Download-AIZYBRAIN_Nano-blue?style=for-the-badge)]([https://drive.google.com/file/d/1MMhEvVHX4yQotJCNz3l9NQAf8K3Rcc_p/view?usp=sharing](https://drive.google.com/file/d/1l8TxSpitSBYj6LATlwKYwtgh-buvIHyS/view?usp=sharing))
-
-> **Note :** : If Google Drive displays an "Antivirus scan was unable to complete" warning due to the file size, this is normal for executables. You can click "Download anyway."
-
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-2026.02-blue.svg)]()
-[![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)]()
-[![Free for Personal Use](https://img.shields.io/badge/Price-Free_for_Personal_Use-green.svg)]()
-
-
-Free yourself from the GAFAM. AIZYBRAIN Nano is an ultra-light interface designed to run the best AI models (Llama 3, Qwen, Mistral) locally, without any command line.
-
-
-
-🚀 Why AIZYBRAIN Nano?
-
-End the frustration of austere terminals or complex gasworks. AIZYBRAIN Nano was born from 10 years of experience in NLP (since the E.V.A project in 2015) to offer the power of AI to everyone, without technical stress.
-
-
-
-🔌 Absolute No-Code: Drag and drop your .gguf files (Hugging Face) and chat.
-
-🛡️ Total Sovereignty: 100% local. Your data and documents never leave your machine.
-
-🌐 Native Web Access: Unlike classic local solutions, AIZY can browse the web to enrich its answers.
-
-🧠 Emerging Consciousness: Unique hybrid system with monitoring of the Psi (Ψ) level for superior cognitive optimization.
-
-🎙️ Multimodal: If you don't feel like reading, AIZY talks to you.
-
-
-
-✨ Key Features
-
-Feature	AIZYBRAIN Nano	Other local solutions
-Graphical Interface	✅ Intuitive & Fast	❌ Rudimentary or absent
-Web Access	✅ Included	❌ Often non-existent
-Context Management	✅ Automated	⚠️ Manual & complex
-Installation	✅ 1 click	❌ Complex dependencies
-Confidentiality	✅ 100% Offline	⚠️ Variable
-
-
-🛠️ Quick Installation
-
-
-Download the latest version at aizynow.com.
-
-Place your favorite models (.gguf) in the folder:
-resources/app/models
-
-Launch AizyBrainNano.exe.
-
-Enjoy the simplest AI on the market.
-
-
-
-📜 Author's Note
-
-
-"I designed AIZY to transform years of command-line struggles into a human experience. AI must be an assistant at our service, not one more technical problem."
-— Stéphane Gorius, Founder of AIZYNOW.
-
-
-
-
-🤝 Contribute & Network
-
-Contributions are welcome! Join the adventure on social media:
-
-
-
-LinkedIn: Stéphane Gorius
-
-X (Twitter): @GorgiusIA
-
-Website: www.aizynow.com
-
-Email: contact@aizynow.com
-
-
-
-Developed with passion for digital freedom.
-
-
-# 🧠 AIZYBRAIN Nano
+# 🧠 AIZYBRAIN Nano V3.0
 ### L’IA Souveraine, Gratuite et No-Code.
 
-[![Download AIZYBRAIN Nano](https://img.shields.io/badge/📥_Download-AIZYBRAIN_Nano-blue?style=for-the-badge)](https://drive.google.com/file/d/1MMhEvVHX4yQotJCNz3l9NQAf8K3Rcc_p/view?usp=sharing)
+[![Download AIZYBRAIN Nano](https://img.shields.io/badge/📥_Download-AIZYBRAIN_Nano-blue?style=for-the-badge)](https://drive.google.com/file/d/1l8TxSpitSBYj6LATlwKYwtgh-buvIHyS/view?usp=sharing)
 
 > **Note :** Si Google Drive affiche un avertissement "Analyse antivirus impossible" à cause de la taille du fichier, c'est normal pour les exécutables. Vous pouvez cliquer sur "Télécharger quand même".
 
@@ -138,7 +50,7 @@ Fini la frustration des terminaux austères ou des usines à gaz complexes. AIZY
 
 ## 📜 Note de l'auteur
 
-> "J'ai conçu AIZY pour transformer des années de galère en ligne de commande en une expérience humaine. L'IA doit être un assistant à notre service, pas un problème technique de plus." 
+> "J'ai conçu AIZY pour transformer des années de galère en ligne de commande en une expérience humaine. L'IA doit être un assistant à notre service, pas un problème technique de plus."  
 > — **Stéphane Gorius**, Fondateur d'AIZYNOW.
 
 ---
@@ -154,6 +66,3 @@ Les contributions sont les bienvenues ! Rejoignez l'aventure sur les réseaux :
 
 ---
 *Développé avec passion pour la liberté numérique.*
-
-
-
