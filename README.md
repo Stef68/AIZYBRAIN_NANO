@@ -2,7 +2,7 @@
 
 Sovereign, Free, and No-Code AI.
 
-[![Download AIZYBRAIN Nano](https://img.shields.io/badge/📥_Download-AIZYBRAIN_Nano-blue?style=for-the-badge)](https://drive.google.com/file/d/1MMhEvVHX4yQotJCNz3l9NQAf8K3Rcc_p/view?usp=sharing)
+[![Download AIZYBRAIN Nano](https://img.shields.io/badge/📥_Download-AIZYBRAIN_Nano-blue?style=for-the-badge)]([https://drive.google.com/file/d/1MMhEvVHX4yQotJCNz3l9NQAf8K3Rcc_p/view?usp=sharing](https://drive.google.com/file/d/1l8TxSpitSBYj6LATlwKYwtgh-buvIHyS/view?usp=sharing))
 
 > **Note :** : If Google Drive displays an "Antivirus scan was unable to complete" warning due to the file size, this is normal for executables. You can click "Download anyway."
 
